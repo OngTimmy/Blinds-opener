@@ -6,6 +6,8 @@ A tiny machine meant to help people wake up more easily in the mornings by letti
 I did my best to model the actual hook in Solidworks in order to have a reference to work with and figure out how to mount a motor onto the hook. I uploaded images of the hook to solidworks and traced out the general shape, then used the boundary boss/base feature to finish the model. 
 
 ![image](https://github.com/OngTimmy/Blinds-opener/assets/124640998/bc9f18d8-8d3f-47c4-914c-07b43160a885)
-![boundary](https://github.com/OngTimmy/Blinds-opener/assets/124640998/e01c531b-5dec-4c8e-aa40-0a7362f49c7b)
+![boundary](https://github.com/OngTimmy/Blinds-opener/assets/124640998/5ca7fab2-fc7c-4c3d-bf30-76fb8e12cd85)
+
 Finished result: 
+
 ![image](https://github.com/OngTimmy/Blinds-opener/assets/124640998/9d1519f8-2990-40a5-9de0-0c1a3b355142)
